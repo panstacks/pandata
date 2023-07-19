@@ -1,6 +1,6 @@
-# SOSA: The Scalable Open-Source Analysis Stack
+# Pandata: The scalable open-source analysis stack
 
-SOSA is a fully open source, high-performance, modern Python data-analytics stack usable in any scientific or engineering domain.
+Pandata is a fully open source, high-performance, modern Python data-analytics stack usable in any scientific, engineering, or analytical domain.
 
 <img width="100%" alt="image" src="https://github.com/SOSA-org/sosa/assets/1695496/877ff206-8bdd-4045-87da-550f18270ae9">
 
@@ -25,7 +25,7 @@ These stacks are largely tied to outdated architectures and assumptions:
 
 It’s all just data – time for a better way!
 
-## SOSA: Scalable Open-Source Analysis Stack
+## Pandata: the scalable open-source analysis stack
 
 Instead of your outdated stack, use modern Python data-science tools that are:
 
@@ -43,23 +43,23 @@ Instead of your outdated stack, use modern Python data-science tools that are:
 
 But I don’t do data science, you say? You do! Data science is what’s shared across lots of disciplines; it’s not just for AI and ML (though it supports those well too!)
 
-## What is SOSA and why do I need it?
+## What is Pandata and why do I need it?
 
-SOSA is just a name for a specific collection of Python libraries maintained separately by different people. SOSA libraries are designed to work well with each other to achieve the goals listed above (being scalable, interactive, etc.). You don't need SOSA for anything other than to know which libraries are designed to work well together in this way. Just use any library in SOSA and be happy, knowing that if you need something covered by one of the other libraries, you can use it without jeopardizing scalability, interactivity, and so on.
+Pandata is just a name for a specific collection of Python libraries maintained separately by different people. Pandata libraries are designed to work well with each other to achieve the goals listed above (being scalable, interactive, etc.). You don't need Pandata for anything other than to know which libraries are designed to work well together in this way. Just use any library from Pandata and be happy, knowing that if you need something covered by one of the other libraries, you can use them together without jeopardizing scalability, interactivity, and so on.
 
-## Who runs SOSA?
+## Who runs Pandata?
 
-SOSA is just this informational website set up by the authors of some of the SOSA tools; there's no management or policies or software development specifically associated with SOSA. But if you have questions or ideas about what to do with SOSA, feel free to open an issue for discussion!
+Pandata is just this informational website set up by the authors of some of the Pandata tools; there's no management or policies or software development specifically associated with Pandata. But if you have questions or ideas about what to do with Pandata, feel free to open an issue for discussion!
 
 ## Examples
 
-There are lots of examples online of applying SOSA libraries to solve problems, including:
+There are lots of examples online of applying Pandata libraries to solve problems, including:
 
+- [Pangeo](https://pangeo.io): JupyterHub, Dask, Xarray for climate science; Pandata is Pangeo but for any field!
 - [Attractors](https://examples.pyviz.org/attractors/clifford_panel.html): Processing huge datasets with Numba, rendering with Datashader
 - [Census](https://examples.pyviz.org/census): Reading chunked data from Parquet, rendering with Dask + Datashader
 - [Ship traffic](https://examples.pyviz.org/ship_traffic): Rendering spatially indexed data with interactive lookup
 - [Landsat](https://projectpythia.org/landsat-ml-cookbook/README.html): Intake data catalog, xarray n-D data, hvPlot+Bokeh plotting, Dask ML
-- [Pangeo](https://pangeo.io): JupyterHub, Dask, Xarray for climate science
 - [Minian](https://minian.readthedocs.io/): Jupyter, Dask, and HoloViews for neuroscience
 
-See the [SOSA paper from SciPy 2023](https://procbuild.scipy.org/download/jbednar-sosa) for all the details, and then just download and use any of the packages in SOSA in any combination and enjoy having all this power at your fingertips!
+See the [Pandata paper from SciPy 2023](https://procbuild.scipy.org/download/jbednar-sosa) for all the details, and then just download and use any of the packages in Pandata in any combination and enjoy having all this power at your fingertips!
