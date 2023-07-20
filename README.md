@@ -6,7 +6,7 @@ Pandata is a fully open source, high-performance, modern Python data-analytics s
 
 ## Are you limited by your domain’s software stack?
 
-Every scientific or engineering discipline has its own computing needs
+Every scientific or engineering discipline has its own computing needs.
 Many such disciplines have developed entirely separate sets of tools for:
 
 - Storing data
