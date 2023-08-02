@@ -29,17 +29,17 @@ It’s all just data – time for a better way!
 
 Instead of your outdated stack, use modern Python data-science tools that are:
 
-- Domain independent: Maintained, used, and tested by many people all across the world
-- Efficient: Run at machine-code speeds using vectorized data or JIT compilation
-- Scalable: Run on anything from a single-core laptop to a thousand-node cluster
-- Cloud friendly: Fully usable for local or remote compute using data on any file storage system
-- Multi-architecture: Runs on your desktop and on Mac/Windows/Linux CPUs and GPUs
-- Scriptable: Run in batch mode for parameter searches and unattended operation
-- Compositional: Select which tools you need and put them together to solve your problem
-- Visualizable: Support rendering even the largest datasets without conversion or approximation
-- Interactive: Support fully interactive exploration, not just rendering static images or text files
-- Shareable: Deployable as web apps for use by anyone anywhere
-- OSS: Free, open, and ready for research or commercial use, without restrictive licensing
+- **Domain independent:** Maintained, used, and tested by many people all across the world
+- **Efficient:** Run at machine-code speeds using vectorized data or JIT compilation
+- **Scalable:** Run on anything from a single-core laptop to a thousand-node cluster
+- **Cloud friendly:** Fully usable for local or remote compute using data on any file storage system
+- **Multi-architecture:** Runs on your desktop and on Mac/Windows/Linux CPUs and GPUs
+- **Scriptable:** Run in batch mode for parameter searches and unattended operation
+- **Compositional:** Select which tools you need and put them together to solve your problem
+- **Visualizable:** Support rendering even the largest datasets without conversion or approximation
+- **Interactive:** Support fully interactive exploration, not just rendering static images or text files
+- **Shareable:** Deployable as web apps for use by anyone anywhere
+- **OSS:** Free, open, and ready for research or commercial use, without restrictive licensing
 
 But I don’t do data science, you say? You do! Data science is what’s shared across lots of disciplines; it’s not just for AI and ML (though it supports those well too!)
 
@@ -56,6 +56,7 @@ Pandata is just this informational website set up by the authors of some of the 
 There are lots of examples online of applying Pandata libraries to solve problems, including:
 
 - [Pangeo](https://pangeo.io): JupyterHub, Dask, Xarray for climate science; Pandata is Pangeo but for any field!
+- [Project Pythia](https://cookbooks.projectpythia.org): Geoscience-specific examples, many of which use Pandata tools
 - [Attractors](https://examples.pyviz.org/attractors/clifford_panel.html): Processing huge datasets with Numba, rendering with Datashader
 - [Census](https://examples.pyviz.org/census): Reading chunked data from Parquet, rendering with Dask + Datashader
 - [Ship traffic](https://examples.pyviz.org/ship_traffic): Rendering spatially indexed data with interactive lookup
