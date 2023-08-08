@@ -63,4 +63,4 @@ There are lots of examples online of applying Pandata libraries to solve problem
 - [Landsat](https://projectpythia.org/landsat-ml-cookbook/README.html): Intake data catalog, xarray n-D data, hvPlot+Bokeh plotting, Dask ML
 - [Minian](https://minian.readthedocs.io/): Jupyter, Dask, and HoloViews for neuroscience
 
-See the [Pandata paper from SciPy 2023](https://procbuild.scipy.org/download/jbednar-sosa) for all the details, and then just download and use any of the packages in Pandata in any combination and enjoy having all this power at your fingertips!
+See the [Pandata paper from SciPy 2023](https://conference.scipy.org/proceedings/scipy2023/james_bednar.html) for all the details, and then just download and use any of the packages in Pandata in any combination and enjoy having all this power at your fingertips!
