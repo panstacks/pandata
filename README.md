@@ -2,7 +2,7 @@
 
 Pandata is a fully open source, high-performance, modern Python data-analytics stack usable in any scientific, engineering, or analytical domain.
 
-<img width="100%" alt="image" src="https://github.com/panstacks/pandata/assets/1695496/43d74f8c-1cc9-4244-affc-1ee6f4bef3b0">
+<img width="100%" alt="image" src="assets/pandata_stack.png">
 
 ## Are you limited by your domain’s software stack?
 
