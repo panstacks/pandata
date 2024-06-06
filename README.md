@@ -49,7 +49,7 @@ Pandata is just a name for a specific collection of Python libraries maintained 
 
 ## Who runs Pandata?
 
-Pandata is just this informational website set up by the authors of some of the Pandata tools; there's no management or policies or software development specifically associated with Pandata. But if you have questions or ideas about what to do with Pandata, feel free to open an issue for discussion!
+Pandata is just this informational website set up by the authors of some of the Pandata tools; there's no management or policies or software development specifically associated with Pandata. But if you have questions or ideas about what to do with Pandata, feel free to open an issue on our [Github repo](https://github.com/panstacks/pandata) for discussion!
 
 ## Examples
 
